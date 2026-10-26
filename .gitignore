@@ -1,0 +1,15 @@
+wa-profile/
+brave-debug/
+wa-pdf/
+wa-pdf-upload/
+thumb/
+_arsip/
+*.json
+done.txt
+manual.txt
+chat.txt
+final.html
+.final.html.tmp
+simpeg-fail.png
+venv/
+__pycache__/
